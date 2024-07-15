@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋 I'm Beka
+
+Software engineer who loves discovering new technologies. Currently fluent in Kafka, Kubernetes, cloud infrastructure, microservices, DDD and AWS.
 
 <!--
 **beka/beka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
