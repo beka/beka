@@ -3,7 +3,7 @@
 Software engineer who loves discovering new technologies. Currently fluent in Kafka, Kubernetes, cloud infrastructure, microservices, DDD and AWS.
 
 <p align="center">
-  <a href="https://www.credly.com/badges/ffba33d9-0798-4ba0-a6e3-6fdaa56260d9">
+  <a href="https://rhtapps.redhat.com/verify?certId=220-002-729">
     <img src="https://images.credly.com/images/fdac57a1-cecc-4790-89da-ac5e6121fef1/image.png" width="150" title="Red Hat Certified Architect">
   </a>
   
