@@ -12,7 +12,7 @@ Software engineer who loves discovering new technologies. Currently fluent in Ka
   </a>
 
  <a href="https://www.credly.com/badges/35425911-2cb7-4893-9489-2918c4e81fcd">
-   <img src="https://images.credly.com/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width="150" alt="Certified Kubernetes Application Developer">
+   <img src="https://images.credly.com/size/680x680/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="150" alt="Certified Kubernetes Application Developer">
  </a>
 
  <a href="https://www.credly.com/badges/335c7b7d-c0b4-484c-bd9f-6d1bcb0bac2f">
