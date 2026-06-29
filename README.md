@@ -4,7 +4,7 @@ Software engineer who loves discovering new technologies. Currently fluent in Ka
 
 <p align="center">
   <a href="https://rhtapps.redhat.com/verify?certId=220-002-729">
-    <img src="https://images.credly.com/images/fdac57a1-cecc-4790-89da-ac5e6121fef1/image.png" width="150" title="Red Hat Certified Architect">
+    <img src="https://images.credly.com/size/680x680/images/9246e5a8-97a5-43ee-9059-bd96b62b0067/blob" width="150" title="Red Hat Certified Architect">
   </a>
   
   <a href="https://www.credly.com/badges/e0fa4aa3-6a17-4eac-8255-9456c43f98e2">
